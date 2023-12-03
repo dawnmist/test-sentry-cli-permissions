@@ -1,0 +1,12 @@
+{
+  "name": "test_sentry_cli_permissions",
+  "version": "1.0.0",
+  "description": "A sample test repo to check @sentry/cli-linux-x64/bin/sentry-cli permissions",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@sentry/node": "^7.84.0",
+    "@sentry/remix": "^7.84.0"
+  }
+}
